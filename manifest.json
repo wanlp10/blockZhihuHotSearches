@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "屏蔽知乎特定内容插件",
+  "version": "1.0",
+  "host_permissions": [
+    "https://*.zhihu.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.zhihu.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
