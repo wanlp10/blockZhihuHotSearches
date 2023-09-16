@@ -1,5 +1,6 @@
 # blockZhihuHotSearches
 屏蔽知乎热搜模块
+![屏蔽这个模块](example.png)
 
 ## 项目简介
 blockZhihuHotSearches 是一个用于屏蔽知乎热搜模块的 Chrome 扩展程序。通过加载该扩展程序，用户可以在 Chrome 浏览器中屏蔽知乎热搜模块，提升浏览体验。
